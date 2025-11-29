@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Srinivas (srinivas0278)  
+# 👋 Hi, I’m Srinivas 
 **IT Administrator · System & Infrastructure Support · AWS Learner**  
 
 ---
